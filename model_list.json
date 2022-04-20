@@ -1,0 +1,12 @@
+[{
+        "model": "Pio",
+        "url": "https://cdn.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Pio/index.json",
+        "messages": ["来自 Potion Maker 的 Pio 酱 ~"],
+        "mouseover": ["干嘛!"],
+        "click": ["你好啊!"]
+    },
+    {
+        "model": "hijiki",
+        "messages": ["喵~"]
+    }
+]
