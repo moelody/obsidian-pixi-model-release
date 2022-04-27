@@ -6,6 +6,9 @@
         "click": ["你好啊!"]
     },
     {
+        "model": "shizuku",
+        "url": "https://cdn.jsdelivr.net/gh/guansss/pixi-live2d-display/test/assets/shizuku/shizuku.model.json"
+    }, {
         "model": "hijiki",
         "messages": ["喵~"]
     }
